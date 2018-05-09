@@ -1,0 +1,5 @@
+Invertible
+Inverse of the matrix A is = 
+[[-40.  16.   9.]
+ [ 13.  -5.  -3.]
+ [  5.  -2.  -1.]]

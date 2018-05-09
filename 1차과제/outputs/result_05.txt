@@ -1,0 +1,9 @@
+Rank 계산 결과
+rankA = 3
+rankM = 3
+The number of n is 3
+Forward_elimination 결과 = Unique solutions
+Row echelon form matrix is = 
+[[ 1.   1.   2.   9. ]
+ [ 0.   1.  -3.5 -8.5]
+ [ 0.   0.   1.   3. ]]

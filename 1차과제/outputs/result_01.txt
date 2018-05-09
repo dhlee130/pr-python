@@ -1,0 +1,10 @@
+Rank 계산 결과
+rankA = 3
+rankM = 3
+The number of n is 4
+Forward_elimination 결과 = Infinity many solutions
+Row echelon form matrix is = 
+[[ 1.   1.5  3.   1.5  5.5]
+ [ 0.   1.  -2.   2.   2. ]
+ [ 0.   0.   0.   1.   1. ]
+ [ 0.   0.   0.   0.   0. ]]

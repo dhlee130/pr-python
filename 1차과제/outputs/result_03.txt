@@ -1,0 +1,10 @@
+Rank 계산 결과
+rankA = 2
+rankM = 3
+The number of n is 2
+Forward_elimination 결과 = inconsistent
+Row echelon form matrix is = 
+[[ 1.  1.  1.]
+ [ 0.  1.  1.]
+ [ 0.  0.  1.]
+ [ 0.  0.  0.]]
